@@ -1,6 +1,6 @@
 ## Hi there 👋I'm Chen Junhao
-- Nationality:chinese
-- Birth:12 March,2002
+- Nationality: Chinese
+- Birth: 12 March,2002
 <!--
 **HideInInk312/HideInInk312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
